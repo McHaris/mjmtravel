@@ -71,8 +71,7 @@
 					<li><a href="#home">Home</a></li>
 					<li><a href="#about">About</a></li>
 					<li><a href="#portfolio">Portfolio</a></li>
-					<li><a href="#service">Services</a></li>
-					<li><a href="#pricing">Prices</a></li>
+					<li><a href="#service">Pelayanan</a></li>
 					<li><a href="#team">Team</a></li>
 					<li class="has-dropdown"><a href="#blog">Blog</a>
 						<ul class="dropdown">
@@ -122,7 +121,7 @@
 
 				<!-- Section header -->
 				<div class="section-header text-center">
-					<h2 class="title"style=" ">Welcome to Website MJM TRAVEL</h2>
+					<h2 class="title"style=" ">Selamat Datang di Website MJM TRAVEL</h2>
 				</div>
 				<!-- /Section header -->
 
@@ -177,7 +176,7 @@
 
 				<!-- Section header -->
 				<div class="section-header text-center">
-					<h2 class="title">Featured Works</h2>
+					<h2 class="title">Pekerjaan Unggulan</h2>
 				</div>
 				<!-- /Section header -->
 
@@ -291,7 +290,7 @@
 
 				<!-- Section header -->
 				<div class="section-header text-center">
-					<h2 class="title">What we offer</h2>
+					<h2 class="title">Apa yang kita tawarkan</h2>
 				</div>
 				<!-- /Section header -->
 
@@ -299,8 +298,8 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="service">
 						<i class="fa fa-diamond"></i>
-						<h3>App Development</h3>
-						<p>Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero.</p>
+						<h3>Serba Mudah</h3>
+						<p>Semua bisa dilakukan dengan mudah melalui Jannah Travel Services.</p>
 					</div>
 				</div>
 				<!-- /service -->
@@ -309,8 +308,8 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="service">
 						<i class="fa fa-rocket"></i>
-						<h3>Graphic Design</h3>
-						<p>Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero.</p>
+						<h3>Transparan</h3>
+						<p>Hotel bintang lima Maskapai Skyteam Muthawif Berpengalaman Asuransi Terpercaya</p>
 					</div>
 				</div>
 				<!-- /service -->
@@ -319,42 +318,13 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="service">
 						<i class="fa fa-cogs"></i>
-						<h3>Creative Idea</h3>
-						<p>Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero.</p>
+						<h3>Kenyamanan</h3>
+						<p>Dapatkan detail paket informasi umrah/haji. Panduan tata cara ibadah UMRAH/haji yang benar. </p>
 					</div>
 				</div>
 				<!-- /service -->
 
-				<!-- service -->
-				<div class="col-md-4 col-sm-6">
-					<div class="service">
-						<i class="fa fa-diamond"></i>
-						<h3>Marketing</h3>
-						<p>Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero.</p>
-					</div>
-				</div>
-				<!-- /service -->
-
-				<!-- service -->
-				<div class="col-md-4 col-sm-6">
-					<div class="service">
-						<i class="fa fa-pencil"></i>
-						<h3>Awesome Support</h3>
-						<p>Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero.</p>
-					</div>
-				</div>
-				<!-- /service -->
-
-				<!-- service -->
-				<div class="col-md-4 col-sm-6">
-					<div class="service">
-						<i class="fa fa-flask"></i>
-						<h3>Brand Design</h3>
-						<p>Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero.</p>
-					</div>
-				</div>
-				<!-- /service -->
-
+				
 			</div>
 			<!-- /Row -->
 
@@ -377,24 +347,24 @@
 				<!-- why choose us content -->
 				<div class="col-md-6">
 					<div class="section-header">
-						<h2 class="title">Why Choose Us</h2>
+						<h2 class="title">Kenapa harus kami ?</h2>
 					</div>
-					<p>Molestie at elementum eu facilisis sed odio. Scelerisque in dictum non consectetur a erat. Aliquam id diam maecenas ultricies mi eget mauris. Ultrices sagittis orci a scelerisque purus.</p>
+					<p>MJM Tour and Travel hadir menjernihkan dengan transparansi, kepastian dan ketentraman.</p>
 					<div class="feature">
 						<i class="fa fa-check"></i>
-						<p>Quis varius quam quisque id diam vel quam elementum.</p>
-					</div>
-					<div class="feature">
-						<i class="fa fa-check"></i>
-						<p>Mauris augue neque gravida in fermentum.</p>
+						<p>Perjalanan Penuh Maknan dengan Tematik Perjalanan Umroh.</p>
 					</div>
 					<div class="feature">
 						<i class="fa fa-check"></i>
-						<p>Orci phasellus egestas tellus rutrum.</p>
+						<p>Genggaman kuat untuk kenyamanan perjalan anda dengan kolaborasi ahli.</p>
 					</div>
 					<div class="feature">
 						<i class="fa fa-check"></i>
-						<p>Nec feugiat nisl pretium fusce id velit ut tortor pretium.</p>
+						<p>Jaringan Hotel Bintang 5 Dar Al Eiman Arab Saudi.</p>
+					</div>
+					<div class="feature">
+						<i class="fa fa-check"></i>
+						<p>Pembayaran Offline Cabang Terdekat dan Online via Bank Transfer.</p>
 					</div>
 				</div>
 				<!-- /why choose us content -->
@@ -439,8 +409,8 @@
 				<div class="col-sm-3 col-xs-6">
 					<div class="number">
 						<i class="fa fa-users"></i>
-						<h3 class="white-text"><span class="counter">451</span></h3>
-						<span class="white-text">Happy clients</span>
+						
+						<span class="white-text">Kenyamanan Jamaah</span>
 					</div>
 				</div>
 				<!-- /number -->
@@ -449,8 +419,8 @@
 				<div class="col-sm-3 col-xs-6">
 					<div class="number">
 						<i class="fa fa-trophy"></i>
-						<h3 class="white-text"><span class="counter">12</span></h3>
-						<span class="white-text">Awards won</span>
+						
+						<span class="white-text">Pelayanan Unggulan</span>
 					</div>
 				</div>
 				<!-- /number -->
@@ -459,8 +429,8 @@
 				<div class="col-sm-3 col-xs-6">
 					<div class="number">
 						<i class="fa fa-coffee"></i>
-						<h3 class="white-text"><span class="counter">154</span>K</h3>
-						<span class="white-text">Cups of Coffee</span>
+						
+						<span class="white-text">Kenyamanan</span>
 					</div>
 				</div>
 				<!-- /number -->
@@ -469,8 +439,8 @@
 				<div class="col-sm-3 col-xs-6">
 					<div class="number">
 						<i class="fa fa-file"></i>
-						<h3 class="white-text"><span class="counter">45</span></h3>
-						<span class="white-text">Projects completed</span>
+						
+						<span class="white-text">Keamanan</span>
 					</div>
 				</div>
 				<!-- /number -->
@@ -484,175 +454,14 @@
 	</div>
 	<!-- /Numbers -->
 
-	<!-- Pricing -->
-	<div id="pricing" class="section md-padding">
-
-		<!-- Container -->
-		<div class="container">
-
-			<!-- Row -->
-			<div class="row">
-
-				<!-- Section header -->
-				<div class="section-header text-center">
-					<h2 class="title">Pricing Table</h2>
-				</div>
-				<!-- /Section header -->
-
-				<!-- pricing -->
-				<div class="col-sm-4">
-					<div class="pricing">
-						<div class="price-head">
-							<span class="price-title">Basic plan</span>
-							<div class="price">
-								<h3>$9<span class="duration">/ month</span></h3>
-							</div>
-						</div>
-						<ul class="price-content">
-							<li>
-								<p>1GB Disk Space</p>
-							</li>
-							<li>
-								<p>100 Email Account</p>
-							</li>
-							<li>
-								<p>24/24 Support</p>
-							</li>
-						</ul>
-						<div class="price-btn">
-							<button class="outline-btn">Purchase now</button>
-						</div>
-					</div>
-				</div>
-				<!-- /pricing -->
-
-				<!-- pricing -->
-				<div class="col-sm-4">
-					<div class="pricing">
-						<div class="price-head">
-							<span class="price-title">Silver plan</span>
-							<div class="price">
-								<h3>$19<span class="duration">/ month</span></h3>
-							</div>
-						</div>
-						<ul class="price-content">
-							<li>
-								<p>1GB Disk Space</p>
-							</li>
-							<li>
-								<p>100 Email Account</p>
-							</li>
-							<li>
-								<p>24/24 Support</p>
-							</li>
-						</ul>
-						<div class="price-btn">
-							<button class="outline-btn">Purchase now</button>
-						</div>
-					</div>
-				</div>
-				<!-- /pricing -->
-
-				<!-- pricing -->
-				<div class="col-sm-4">
-					<div class="pricing">
-						<div class="price-head">
-							<span class="price-title">Gold plan</span>
-							<div class="price">
-								<h3>$39<span class="duration">/ month</span></h3>
-							</div>
-						</div>
-						<ul class="price-content">
-							<li>
-								<p>1GB Disk Space</p>
-							</li>
-							<li>
-								<p>100 Email Account</p>
-							</li>
-							<li>
-								<p>24/24 Support</p>
-							</li>
-						</ul>
-						<div class="price-btn">
-							<button class="outline-btn">Purchase now</button>
-						</div>
-					</div>
-				</div>
-				<!-- /pricing -->
-
-			</div>
-			<!-- Row -->
-
-		</div>
-		<!-- /Container -->
-
-	</div>
-	<!-- /Pricing -->
-
+	
 
 	<!-- Testimonial -->
-	<div id="testimonial" class="section md-padding">
-
-		<!-- Background Image -->
-		<div class="bg-img" style="background-image: url('<?php echo base_url() ?>assets/img/background3.jpg');">
-			<div class="overlay"></div>
-		</div>
-		<!-- /Background Image -->
-
-		<!-- Container -->
-		<div class="container">
-
-			<!-- Row -->
-			<div class="row">
-
-				<!-- Testimonial slider -->
-				<div class="col-md-10 col-md-offset-1">
-					<div id="testimonial-slider" class="owl-carousel owl-theme">
-
-						<!-- testimonial -->
-						<div class="testimonial">
-							<div class="testimonial-meta">
-								<img src="<?php echo base_url() ?>assets/img/perso1.jpg" alt="">
-								<h3 class="white-text">John Doe</h3>
-								<span>Web Designer</span>
-							</div>
-							<p class="white-text">Molestie at elementum eu facilisis sed odio. Scelerisque in dictum non consectetur a erat. Aliquam id diam maecenas ultricies mi eget mauris.</p>
-						</div>
-						<!-- /testimonial -->
-
-						<!-- testimonial -->
-						<div class="testimonial">
-							<div class="testimonial-meta">
-								<img src="<?php echo base_url() ?>assets/img/perso2.jpg" alt="">
-								<h3 class="white-text">John Doe</h3>
-								<span>Web Designer</span>
-							</div>
-							<p class="white-text">Molestie at elementum eu facilisis sed odio. Scelerisque in dictum non consectetur a erat. Aliquam id diam maecenas ultricies mi eget mauris.</p>
-						</div>
-						<!-- /testimonial -->
-
-					</div>
-				</div>
-				<!-- /Testimonial slider -->
-
-			</div>
-			<!-- /Row -->
-
-		</div>
-		<!-- /Container -->
-
-	</div>
+	
 	<!-- /Testimonial -->
 
 	<!-- Team -->
-	<div id="team" class="section md-padding">
-
-		<!-- Container -->
 	
-		<!-- /Container -->
-
-	</div>
-	<!-- /Team -->
 
 	<!-- Blog -->
 	<div id="blog" class="section md-padding bg-grey">

@@ -247,8 +247,8 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 
 .outline-btn {
     background: transparent;
-    color: #6195FF !important;
-    border-color: #6195FF;
+    color: black !important;
+    border-color: black;
 }
 
 .main-btn:hover, .white-btn:hover, .outline-btn:hover {
@@ -343,12 +343,12 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     }
     .main-nav>li>a:hover, .main-nav>li>a:focus, .main-nav>li.active>a {
         background: transparent;
-        color: #6195FF;
+        color: #F0AA00;
     }
     .main-nav>li>a:after {
         content: "";
         display: block;
-        background-color: #6195FF;
+        background-color: #DE9F07;
         height: 2px;
         width: 0%;
         -webkit-transition: 0.2s width;
@@ -837,8 +837,8 @@ header {
     float: left;
     padding: 5px;
     border-radius: 50%;
-    color: #6195FF;
-    border: 1px solid #6195FF;
+    color: #F0AA00;
+    border: 1px solid #F0AA00;
     margin-right: 5px;
 }
 
@@ -852,7 +852,7 @@ header {
 }
 
 .number i {
-    color: #6195FF;
+    color: #F8E20C;
     font-size: 36px;
     margin-bottom: 20px;
 }
@@ -878,7 +878,7 @@ header {
 
 .pricing::after {
     content: "";
-    background-color: #1C1D21;
+    background-color: #F8F650;
     position: absolute;
     left: 0;
     right: 0;
@@ -907,7 +907,7 @@ header {
 }
 
 .pricing:hover .price-title {
-    color:  #F2F82C;
+    color:  black;
 }
 
 .pricing .price {
@@ -918,7 +918,7 @@ header {
     text-align: center;
     margin: auto;
     border-radius: 50%;
-    border: 2px solid #6195FF;
+    border: 2px solid black;
 }
 
 .pricing .price h3 {
@@ -936,7 +936,7 @@ header {
 }
 
 .pricing:hover .price h3 {
-    color: #fff;
+    color: black;
 }
 
 .pricing .duration {
@@ -949,7 +949,7 @@ header {
 }
 
 .pricing:hover .duration {
-    color: #fff;
+    color: black;
 }
 
 .pricing .price-btn {
@@ -1422,7 +1422,7 @@ header {
 
 .contact i {
     font-size: 36px;
-    color: #6195FF;
+    color: #F3B621;
     margin-bottom: 20px;
 }
 
@@ -1479,7 +1479,7 @@ header {
   line-height: 50px;
   text-align: center;
   border-radius: 3px;
-  background-color: #6195FF;
+  background-color: #F3B621;
   color:#FFF;
 }
 
@@ -1589,7 +1589,7 @@ header {
     background: #6195FF;
 }
 .owl-theme .owl-dots .owl-dot.active span {
-	  background: #6195FF;
+	  background: #F0AA00;
 	  width:20px;
 }
 
@@ -1611,7 +1611,7 @@ header {
     -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
             transform: translateY(-50%);
-    background: #6195FF;
+    background: #F0AA00;
     color: #FFF;
   	padding: 0px;
   	width: 50px;
@@ -1631,7 +1631,7 @@ header {
 
 .owl-theme .owl-nav [class*='owl-']:hover {
     opacity: 0.8;
-    background: #6195FF;
+    background: #F0AA00;
 }
 
 
@@ -1648,7 +1648,7 @@ header {
   	height: 50px;
   	line-height: 50px;
   	text-align: center;
-  	background: #6195FF;
+  	background: #F0AA00;
   	border-radius:3px;
   	color: #FFF;
   	z-index: 9999;
@@ -1691,7 +1691,7 @@ header {
 }
 .preloader span {
     display: inline-block;
-    background-color: #6195FF;
+    background-color: #F0AA00;
     width: 25px;
     height: 25px;
     -webkit-animation: 1s preload ease-in-out infinite;
