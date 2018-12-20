@@ -20,6 +20,7 @@ class C_main extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('main');
+		$data['isi'] = $this-> load -> view('main', '', true);
+		$this->load->view('mainview',$data);
 	}
 }
